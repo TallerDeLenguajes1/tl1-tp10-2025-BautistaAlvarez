@@ -29,7 +29,8 @@ foreach (var prop in PropsTarea)
     }
 }
 string rutaReporte = Path.Combine(System.IO.Directory.GetCurrentDirectory(), "tareas.json");
-var writer = new StreamWriter(rutaReporte);
 string jsonString = JsonSerializer.Serialize(PropsTarea);
-writer.WriteLine(jsonString);
-writer.Close();
+using (var writer = new StreamWriter(rutaReporte)) {
+    
+    writer.WriteLine(jsonString);
+}

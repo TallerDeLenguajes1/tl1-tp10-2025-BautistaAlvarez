@@ -1,0 +1,15 @@
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\bin\Debug\net8.0\Usuarios.exe
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\bin\Debug\net8.0\Usuarios.deps.json
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\bin\Debug\net8.0\Usuarios.runtimeconfig.json
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\bin\Debug\net8.0\Usuarios.dll
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\bin\Debug\net8.0\Usuarios.pdb
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\obj\Debug\net8.0\Usuarios.sourcelink.json
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\obj\Debug\net8.0\Usuarios.dll
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\obj\Debug\net8.0\refint\Usuarios.dll
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\obj\Debug\net8.0\Usuarios.pdb
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\obj\Debug\net8.0\Usuarios.genruntimeconfig.cache
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\Usuarios\obj\Debug\net8.0\ref\Usuarios.dll
