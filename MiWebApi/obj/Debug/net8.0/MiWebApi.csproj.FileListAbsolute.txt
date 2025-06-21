@@ -1,0 +1,15 @@
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\bin\Debug\net8.0\MiWebApi.exe
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\bin\Debug\net8.0\MiWebApi.deps.json
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\bin\Debug\net8.0\MiWebApi.runtimeconfig.json
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\bin\Debug\net8.0\MiWebApi.dll
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\bin\Debug\net8.0\MiWebApi.pdb
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\obj\Debug\net8.0\MiWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\obj\Debug\net8.0\MiWebApi.AssemblyInfoInputs.cache
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\obj\Debug\net8.0\MiWebApi.AssemblyInfo.cs
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\obj\Debug\net8.0\MiWebApi.csproj.CoreCompileInputs.cache
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\obj\Debug\net8.0\MiWebApi.sourcelink.json
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\obj\Debug\net8.0\MiWebApi.dll
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\obj\Debug\net8.0\refint\MiWebApi.dll
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\obj\Debug\net8.0\MiWebApi.pdb
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\obj\Debug\net8.0\MiWebApi.genruntimeconfig.cache
+E:\Facultad\Anio2\Modulo1\TallerLenguaje1\Practica\tl1-tp10-2025-BautistaAlvarez\MiWebApi\obj\Debug\net8.0\ref\MiWebApi.dll

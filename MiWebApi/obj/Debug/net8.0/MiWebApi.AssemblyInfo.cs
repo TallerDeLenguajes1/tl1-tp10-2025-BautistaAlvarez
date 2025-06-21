@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Tareas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("MiWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68ebf5850614179f142a7a03dcba247918f603d6")]
-[assembly: System.Reflection.AssemblyProductAttribute("Tareas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Tareas")]
+[assembly: System.Reflection.AssemblyProductAttribute("MiWebApi")]
+[assembly: System.Reflection.AssemblyTitleAttribute("MiWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
